@@ -1,7 +1,7 @@
 function luaslingkaran() {
     let L, r;
     r=Number(document.formtugasalper.jarijari.value);
-    L = ((r * r) * (3.14));
+    L = ((r * r) * (22/7));
     document.formtugasalper.luas.value=L;
 }
 
