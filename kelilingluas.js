@@ -13,7 +13,7 @@ function Kpersegi() {
 }
 
 function Lpersegipanjang() {
-    let p, l, L
+    let L, p, l
     p=Number(document.formkelilingluas.panjang.value);
     l=Number(document.formkelilingluas.lebar.value);
     L = p * l;
